@@ -1,0 +1,8 @@
+numpy
+gym
+cloudpickle
+plotly
+pytest
+coverage
+pytest-cov
+flake8
